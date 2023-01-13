@@ -1,0 +1,1 @@
+Attempt at odin projects Landing Page project. Replicated the page.
